@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/il_570xN.2362497858_7ri2.webp
-coverY: -115
+cover: .gitbook/assets/Screenshot 2023-09-20 at 17.43.36.png
+coverY: 0
 layout:
   cover:
     visible: true

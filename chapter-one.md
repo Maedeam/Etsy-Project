@@ -1,10 +1,10 @@
 ---
-cover: .gitbook/assets/maxresdefault (4).jpeg
+cover: .gitbook/assets/etsy-hq.webp
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
