@@ -21,8 +21,6 @@ layout:
 
 ## Etsy Business Model
 
-**Etsy Business Model:**
-
 **1. Value Proposition:**
 
 * **Unique and Handmade Products:** Etsy's primary value proposition is offering a diverse and curated selection of unique, handmade, and vintage items that cater to consumers seeking personalized and distinctive products.
@@ -72,8 +70,6 @@ layout:
 Etsy's business model revolves around connecting individual artisans and sellers with a global audience seeking unique and handmade products. Through community-building, a user-friendly platform, and a transaction-based revenue model, Etsy has created a successful and distinctive position in the e-commerce landscape.
 
 ## Etsy Strategic Choices
-
-**Etsy Strategic Choices:**
 
 1. **Focus on Handmade and Unique Products:**
    * Etsy's core strategic choice is its commitment to offering a marketplace exclusively dedicated to handmade, vintage, and unique items. This focus differentiates Etsy from broader e-commerce platforms and caters to a niche market seeking individuality and craftsmanship.

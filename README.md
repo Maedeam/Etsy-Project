@@ -25,8 +25,6 @@ layout:
   * ## [**Introduction to Etsy**](chapter-one.md#introduction-to-etsy)
   * ## [**What is Etsy**](chapter-one.md#what-is-etsy)
   * ## [**The Founder**](chapter-one.md#the-founder)
-  * ## [**Previous attempt: Justin.TV**](chapter-one.md#previous-attempt-justin.tv)
-  * ## [**Amazon’s advent**](chapter-one.md#amazons-advent)
   * ## [**How does it work?**](chapter-one.md#how-does-it-work)
   * ## [**Etsy stakeholders**](chapter-one.md#etsy-stakeholders)
   * ## [**Etsy and Covid-19**](chapter-one.md#etsy-and-covid-19)
