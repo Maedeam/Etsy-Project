@@ -31,15 +31,12 @@ layout:
   * ## [**Etsy stakeholders**](chapter-one.md#etsy-stakeholders)
   * ## [**Etsy and Covid-19**](chapter-one.md#etsy-and-covid-19)
 * ## [**Chapter Two**](chapter-two.md)
-  * ## PESTEL Analysis
-  * ## Porter’s Five Forces Analysis
-  * ## SWOT Analysis
+  * ## [PESTEL Analysis](chapter-two.md#pestel-analysis)
+  * ## [Porter’s Five Forces Analysis](chapter-two.md#porters-five-forces-analysis)
+  * ## [SWOT Analysis](chapter-two.md#swot-analysis)
 * ## [**Chapter Three**](chapter-three.md)
-  * ## Etsy Business Model
-  * ## Etsy Strategic Choices
+  * ## [Etsy Business Model](chapter-three.md#etsy-business-model)
+  * ## [Etsy Strategic Choices](chapter-three.md#etsy-strategic-choices)
 * ## [**Conclusion**](conclusion.md)
 * ## [**Bibliography**](bibliography.md)
 
-
-
-##
