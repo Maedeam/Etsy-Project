@@ -1,3 +1,8 @@
+A Project in Business Strategy and Innovation in Cultural Industries
+
+https://maede.gitbook.io/etsy-project
+
+About Etsy.com HandArts Marketplace
 ---
 description: A business strategy analysis on Etsy.com
 cover: .gitbook/assets/etsy-head.png
