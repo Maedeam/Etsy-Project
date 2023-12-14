@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Summary](README.md)
+* [Etsy Project](README.md)
 * [Abstract](abstract.md)
 * [Chapter One](chapter-one.md)
 * [Chapter Two](chapter-two.md)
