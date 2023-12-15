@@ -1,5 +1,6 @@
 ---
-cover: broken-reference
+description: The Conclusion of the Etsy Project
+cover: .gitbook/assets/15-Conclusion.jpg
 coverY: 0
 layout:
   cover:
@@ -28,3 +29,4 @@ Etsy's business model, characterized by transaction and payment processing fees,
 The challenges Etsy faces, including competition from larger e-commerce platforms and the need to balance quality control with seller independence, underscore the complexities of operating in the ever-evolving digital marketplace.
 
 Overall, Etsy's journey showcases the significance of strategic choices in creating a distinctive brand, fostering a sense of community, and adapting to the evolving needs of both buyers and sellers. As the company continues to navigate the dynamic landscape of e-commerce, its strategic focus on creativity, uniqueness, and community engagement positions it for continued growth and relevance in the global marketplace.
+

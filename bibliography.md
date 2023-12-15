@@ -1,5 +1,6 @@
 ---
-cover: broken-reference
+description: The Bibliography of the Etsy Project
+cover: .gitbook/assets/16-Bibliography.jpg
 coverY: 0
 layout:
   cover:

@@ -1,3 +1,23 @@
+---
+description: SWOT Analysis
+cover: .gitbook/assets/13-SWOT Analysis.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📙 SWOT Analysis
 
 **Strengths:**
@@ -42,4 +62,3 @@
 4. **Regulatory Challenges:**
    * Changes in regulations related to e-commerce, intellectual property, or data protection may pose challenges for Etsy's operations.
 
-This SWOT analysis highlights Etsy's strengths in catering to a unique market and fostering a strong community but also emphasizes the need to navigate competition, maintain quality, and explore avenues for growth and innovation.

@@ -1,5 +1,6 @@
 ---
 description: About the working method of this user-friendly platform
+cover: .gitbook/assets/06-How does Etsy work.jpg
 coverY: 0
 layout:
   cover:

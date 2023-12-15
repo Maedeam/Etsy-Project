@@ -1,4 +1,24 @@
-# 📙 Porter’s Five Forces Analysis
+---
+description: Porter's Five Forces analysis
+cover: .gitbook/assets/12-Porter Analysis.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 📙 Porter Analysis
 
 Porter's Five Forces analysis is a framework for evaluating the competitive forces within an industry. Here's an analysis for Etsy:
 
@@ -18,4 +38,3 @@ Porter's Five Forces analysis is a framework for evaluating the competitive forc
    * _Numerous Competitors:_ Etsy faces competition from various e-commerce platforms, including larger players like Amazon Handmade and eBay.
    * _Low Product Differentiation:_ While Etsy's focus on handmade and vintage items provides a unique selling proposition, there is a challenge in maintaining differentiation as competitors may expand their offerings.
 
-In conclusion, while Etsy has established itself as a leading platform for unique and handmade items, it faces challenges from the broader e-commerce industry. The competitive landscape and the need to continually attract both buyers and sellers emphasize the importance of strategic differentiation and ongoing innovation for Etsy's sustained success.
