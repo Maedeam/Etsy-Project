@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Etsy Project
+# 📙 Etsy Project
 
 ## 🔗 GitHub and GitBook links:
 
@@ -47,3 +47,4 @@ layout:
   * ### [Etsy Strategic Choices](chapter-three.md#etsy-strategic-choices)
 * ### [**Conclusion**](conclusion.md)
 * ### [**Bibliography**](bibliography.md)
+

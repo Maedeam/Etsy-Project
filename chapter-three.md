@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Chapter Three
+# 📙 Chapter Three
 
 ## Etsy Business Model
 

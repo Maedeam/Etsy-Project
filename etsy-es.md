@@ -1,4 +1,4 @@
-# Etsy ES
+# 📙 Etsy ES
 
 ## The Etsy Exploring Strategy framework (ES)
 

@@ -1,4 +1,4 @@
-# Etsy stakeholders
+# 📙 Etsy stakeholders
 
 ##
 

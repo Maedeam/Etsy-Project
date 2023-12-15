@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# PESTEL Analysis
+# 📙 PESTEL Analysis
 
 After analysing Etsy history and building blocks, another kind of analysis are required. In fact, to better understand the elements that make this platform so attractive, and to give a more complete picture of the strategies on which it is based, it is useful to analyse the macro-environment in which Etsy is immersed. In order to do this, one of the best applicable tools for analysis of this type is used: the PESTEL analysis, a tool thanks to which it is possible to study the company in question from a political, economic, social, technological, environmental, and legal point of view.
 

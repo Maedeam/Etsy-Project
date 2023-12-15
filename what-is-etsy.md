@@ -1,4 +1,4 @@
-# What is Etsy
+# 📙 What is Etsy
 
 ## What is Etsy
 

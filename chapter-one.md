@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Introduction to Etsy
+# 📙 Introduction to Etsy
 
 In the ever-evolving landscape of e-commerce, Etsy.com has emerged as a distinctive and influential player, carving its niche in the market. This business strategy analysis delves into the origins and evolution of Etsy, examining its unique positioning in the online marketplace.
 

@@ -1,4 +1,4 @@
-# Porter’s Five Forces Analysis
+# 📙 Porter’s Five Forces Analysis
 
 Porter's Five Forces analysis is a framework for evaluating the competitive forces within an industry. Here's an analysis for Etsy:
 

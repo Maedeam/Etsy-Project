@@ -1,8 +1,25 @@
-# Three Strategy Horizons of Etsy
+---
+cover: .gitbook/assets/3 horizon.png
+coverY: -106.18666666666665
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 📙 Three Strategy Horizons of Etsy
 
 ## Three Strategy Horizons of Etsy
-
-<figure><img src=".gitbook/assets/3 horizon.png" alt=""><figcaption><p>Three Strategy Horizons of Etsy</p></figcaption></figure>
 
 ### **Horizon 1**
 

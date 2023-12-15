@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Abstract
+# 📙 Abstract
 
 Embark on a captivating journey into the enchanting realm of Etsy.com, where creativity knows no bounds, and every click unveils a world of unique wonders. Established in 2005, Etsy is not merely an online marketplace; it is an immersive experience that transcends the ordinary, inviting you to explore a universe where the extraordinary takes center stage.
 

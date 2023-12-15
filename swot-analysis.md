@@ -1,4 +1,4 @@
-# SWOT Analysis
+# 📙 SWOT Analysis
 
 **Strengths:**
 

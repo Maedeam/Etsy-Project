@@ -1,4 +1,4 @@
-# Etsy Timeline
+# 📙 Etsy Timeline
 
 **Etsy's Evolution: A Pioneering Journey Through Time**
 

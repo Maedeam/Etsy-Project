@@ -1,4 +1,4 @@
-# How does Etsy work?
+# 📙 How does Etsy work?
 
 ##
 
