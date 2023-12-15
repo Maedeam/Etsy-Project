@@ -22,7 +22,8 @@ layout:
 
 ## 🔗 GitHub and GitBook links:
 
-[The project GitBook Presentation](https://maede.gitbook.io/etsy-project)
+The Etsy project PDF Presentation
 
-[The project GitHub Repository](https://github.com/Maedeam/Etsy-Project)
+[The Etsy project GitBook Presentation](https://maede.gitbook.io/etsy-project)
 
+[The Etsy project GitHub Repository](https://github.com/Maedeam/Etsy-Project)
