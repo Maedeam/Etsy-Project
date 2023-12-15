@@ -1,8 +1,24 @@
+---
+description: The Etsy Exploring Strategy framework (ES)
+cover: .gitbook/assets/10-Etsy ES.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📙 Etsy ES
-
-## The Etsy Exploring Strategy framework (ES)
-
-<figure><img src=".gitbook/assets/Exploring Strategy.png" alt=""><figcaption><p>The Etsy Exploring Strategy framework</p></figcaption></figure>
 
 **1. Strategic Position for Etsy:**
 

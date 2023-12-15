@@ -1,6 +1,7 @@
 ---
-cover: .gitbook/assets/3 horizon.png
-coverY: -106.18666666666665
+description: Three Strategy Horizons of Etsy
+cover: .gitbook/assets/09-Strategy Horizons.jpg
+coverY: -45
 layout:
   cover:
     visible: true
@@ -17,9 +18,7 @@ layout:
     visible: true
 ---
 
-# 📙 Three Strategy Horizons of Etsy
-
-## Three Strategy Horizons of Etsy
+# 📙 Strategy Horizons
 
 ### **Horizon 1**
 

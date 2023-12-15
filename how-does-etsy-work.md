@@ -1,6 +1,23 @@
-# 📙 How does Etsy work?
+---
+description: About the working method of this user-friendly platform
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-##
+# 📙 How does Etsy work?
 
 Etsy operates as an online marketplace that connects buyers and sellers, particularly focusing on handmade, vintage, and unique items. The platform provides a user-friendly environment for independent artisans, crafters, and collectors to showcase and sell their products to a global audience. Here's an overview of how Etsy works:
 
@@ -24,3 +41,4 @@ Etsy operates as an online marketplace that connects buyers and sellers, particu
    * Etsy charges fees for listing products and takes a percentage of each sale. Sellers are responsible for managing their shop's financial transactions and monitoring their performance metrics.
 
 Overall, Etsy operates as a dynamic and supportive community that connects creative entrepreneurs with a global audience, fostering a marketplace where unique and handmade items can find appreciative buyers.
+

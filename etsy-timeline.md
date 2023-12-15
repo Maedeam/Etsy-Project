@@ -1,9 +1,24 @@
+---
+description: 'Etsy''s Evolution: A Pioneering Journey Through Time'
+cover: .gitbook/assets/08-Etsy Timeline.jpg
+coverY: 116
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📙 Etsy Timeline
-
-**Etsy's Evolution: A Pioneering Journey Through Time**
-
-\
-
 
 \*\*2007: Seeds of Creation\*\*
 

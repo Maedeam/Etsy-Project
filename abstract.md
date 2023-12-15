@@ -1,7 +1,7 @@
 ---
-description: Etsy; an artshop journal
-cover: .gitbook/assets/Etsy-SEO-How-to-Get-Noticed-on-Etsy-in-2022.jpeg
-coverY: 314.69866666666667
+description: Etsy; an Artshop Journal
+cover: .gitbook/assets/02-Abstract.jpg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -29,3 +29,4 @@ Step into this vibrant marketplace, and you'll find more than just products; you
 But Etsy isn't just a platform; it's a global community. It's a testament to the idea that behind every product is a passionate artisan, an inspired creator, or a collector with a keen eye for the extraordinary. It's a celebration of diversity, a fusion of cultures, and a mosaic of human ingenuity.
 
 As you navigate the virtual aisles, you'll witness the intersection of tradition and innovation, where time-honored techniques meet cutting-edge design. Etsy is a canvas where imagination paints the future, and each purchase becomes a brushstroke in the masterpiece of supporting independent creators.
+

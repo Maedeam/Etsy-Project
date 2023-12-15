@@ -2,8 +2,8 @@
 description: >-
   Etsy PESTEL analysis examines the external macro-environmental factors that
   can affect the business.
-cover: .gitbook/assets/BDUK-27062-PESTEL-02-scaled.jpeg
-coverY: 0
+cover: .gitbook/assets/11-PESTEL Analysis.jpg
+coverY: 13
 layout:
   cover:
     visible: true

@@ -1,6 +1,24 @@
-# 📙 Etsy stakeholders
+---
+description: About the Stakeholders of the Etsy
+cover: .gitbook/assets/07-Etsy Stakeholders.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-##
+# 📙 Etsy Stakeholders
 
 Etsy, as a global online marketplace, engages with a diverse group of stakeholders who play crucial roles in the platform's success. These stakeholders contribute to and are impacted by Etsy's operations, policies, and overall performance. Here are key stakeholders involved in the Etsy ecosystem:
 
@@ -61,3 +79,4 @@ The COVID-19 pandemic significantly impacted businesses worldwide, and Etsy was 
    * Etsy introduced flexible shop policies to accommodate sellers facing disruptions. This included extensions for shipping times and adjustments to return policies.
 
 The COVID-19 pandemic underscored the resilience of Etsy's community-oriented business model. By adapting to challenges and leveraging the platform's unique strengths, Etsy demonstrated its ability to navigate a rapidly changing landscape while continuing to connect sellers and buyers in meaningful ways.
+

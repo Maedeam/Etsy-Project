@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/How-Etsy-make-money-1024x536.jpeg
+cover: broken-reference
 coverY: 0
 layout:
   cover:
