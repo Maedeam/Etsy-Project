@@ -1,5 +1,5 @@
 ---
-description: A Business Strategy Analysis Project on Etsy, a HandArts Marketplace
+description: 'A Business Strategy Analysis Project on Etsy: a HandArts Marketplace'
 cover: .gitbook/assets/01- Etsy Project.jpg
 coverY: 17
 layout:
