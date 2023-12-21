@@ -22,7 +22,7 @@ layout:
 
 ## 🔗 GitHub and GitBook links:
 
-The Etsy project PDF Presentation
+[The Etsy project PDF Presentation](Hajjari%20Maede%200000981864%20Business%20Strategy%20-%20Etsy.pdf)
 
 [The Etsy project GitBook Presentation](https://maede.gitbook.io/etsy-project)
 
